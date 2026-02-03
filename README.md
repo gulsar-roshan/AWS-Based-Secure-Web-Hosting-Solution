@@ -40,10 +40,27 @@ User → Route 53 (DNS) → AWS EC2 (AlmaLinux) → Apache (LAMP Stack)
 
 ## 🔹 Screenshots
 
+## 📸 Screenshots
 
-* `screenshots/ec2.png` – EC2 Instance
-* `screenshots/route53.png` – Route 53 DNS Records
-* `screenshots/https.png` – Website with HTTPS lock
+### AWS Architecture
+
+![Architecture Diagram](Architecture.jpeg)
+
+### EC2 Instance
+
+![EC2 Instance](screenshots/ec2.png)
+
+### Security Group
+
+![Security Group](screenshots/security-group.png)
+
+### Route 53 DNS Records
+
+![Route 53](screenshots/route53.png)
+
+### Website Running on HTTPS
+
+![Website HTTPS](screenshots/https.png)
 
 ## 🔹 Future Enhancements
 
