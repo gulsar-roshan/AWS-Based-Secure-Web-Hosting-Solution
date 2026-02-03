@@ -60,7 +60,7 @@ User → Route 53 (DNS) → AWS EC2 (AlmaLinux) → Apache (LAMP Stack)
 
 ### Website Running on HTTPS
 
-![Website HTTPS](screenshots/https.png)
+![Website HTTPS](screenshots/website-https.png)
 
 ## 🔹 Future Enhancements
 
